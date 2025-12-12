@@ -11,10 +11,14 @@
             "id": "7351cba6663d08e1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "IFF/Matérias/RAY.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "RAY"
             }
           }
         ]
@@ -161,7 +165,7 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "4cd6ec9ff0514c64",
+  "active": "7351cba6663d08e1",
   "lastOpenFiles": [
     "Ixiii.md",
     "IFF/Matérias/RAY.md"
