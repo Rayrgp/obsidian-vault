@@ -11,10 +11,12 @@
             "id": "7351cba6663d08e1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "type": "pdf",
+              "state": {
+                "file": "IFF/Matérias/História/Arquivos úteis(PDFs, imagens etc...)/A1. Independências nas Américas -Roteiro de Estudo e Atividade- (2025).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "A1. Independências nas Américas -Roteiro de Estudo e Atividade- (2025)"
             }
           }
         ]
@@ -108,6 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "IFF/Matérias/História/Caderno.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,7 +166,13 @@
   },
   "active": "4cd6ec9ff0514c64",
   "lastOpenFiles": [
-    "IFF/Matérias/RAY.md",
+    "IFF/Matérias/História/Arquivos úteis(PDFs, imagens etc...)/Trabalho de história.pdf",
+    "IFF/Matérias/História/Arquivos úteis(PDFs, imagens etc...)/A1. Independências nas Américas -Roteiro de Estudo e Atividade- (2025).pdf",
+    "IFF/Matérias/História/Arquivos úteis(PDFs, imagens etc...)/História 2 -  11 - Independência nas Américas.pdf",
+    "IFF/Matérias/História/Caderno.md",
+    "IFF/Matérias/História/Arquivos úteis(PDFs, imagens etc...)",
+    "História 2 -  11 - Independência nas Américas.pdf",
+    "IFF/Matérias/História",
     "IFF/Matérias/Cadu é gay.md",
     "Ixiii.md"
   ]
