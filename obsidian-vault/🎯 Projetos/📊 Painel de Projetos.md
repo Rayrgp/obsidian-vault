@@ -1,24 +1,30 @@
-# 📊 Painel de Projetos
+> [!info] 🎯 Painel de Projetos
+> Gerencie todos os seus projetos em um só lugar. Organize por status: ativos, pausados e finalizados.
+
+---
 
 ## Acessos Rápidos
 
 - [[Quadrinhos Bioko]]
-
 - [[Iniciação Científica]]
-
 - [[Outros Projetos]]
 
 ---
 
 ## Projetos Ativos
 
-- [[Quadrinhos Bioko]]
+> [!tip] ⚡ Em Desenvolvimento
+> Projetos que estão sendo trabalhados ativamente.
 
+- [[Quadrinhos Bioko]]
 - [[Iniciação Científica]]
 
 ---
 
 ## Projetos Pausados
+
+> [!note] ⏸️ Temporariamente Pausados
+> Projetos que estão em espera ou aguardando recursos.
 
 - 
 
@@ -26,13 +32,22 @@
 
 ## Projetos Finalizados
 
+> [!success] ✅ Concluídos
+> Projetos que foram finalizados com sucesso.
+
 - 
 
 ---
 
 ## Status Geral
 
-**Projetos em Desenvolvimento:** 2
+> [!todo] 📊 Resumo
+> **Projetos em Desenvolvimento:** 2  
+> **Projetos Pausados:** 0  
+> **Projetos Finalizados:** 0  
+> **Próximos Passos:** Revisar progresso de cada projeto
 
-**Próximos Passos:** Revisar progresso de cada projeto
+---
 
+> [!tip] 💡 Dica
+> Atualize regularmente o status dos projetos. Mova projetos entre categorias conforme o progresso.

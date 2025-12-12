@@ -1,16 +1,20 @@
-# 📊 Painel de Treinos
+> [!info] 🏋️ Painel de Treinos
+> Acompanhe sua rotina de exercícios, evolução física e exercícios favoritos.
+
+---
 
 ## Acessos Rápidos
 
 - [[Rotina Segunda Quarta Sexta]]
-
 - [[Evolução Física]]
-
 - [[Exercícios]]
 
 ---
 
 ## Rotinas
+
+> [!tip] 📅 Rotina Ativa
+> Rotina de treino atual em execução.
 
 - [[Rotina Segunda Quarta Sexta]]
 
@@ -18,15 +22,22 @@
 
 ## Acompanhamento
 
-- [[Evolução Física]]
+> [!tip] 📊 Monitoramento
+> Acompanhe seu progresso e evolução física.
 
-- [[Exercícios]]
+- [[Evolução Física]] - Registro de medidas e progresso
+- [[Exercícios]] - Lista de exercícios e técnicas
 
 ---
 
 ## Status Geral
 
-**Rotina Ativa:** Segunda, Quarta e Sexta
+> [!todo] 📊 Resumo
+> **Rotina Ativa:** Segunda, Quarta e Sexta  
+> **Próximo Treino:** Ver [[Rotina Segunda Quarta Sexta]]  
+> **Última Atualização:** [Data]
 
-**Próximo Treino:** Ver [[Rotina Segunda Quarta Sexta]]
+---
 
+> [!tip] 💡 Dica
+> Registre regularmente sua evolução física. Use checkboxes para marcar treinos concluídos na rotina.

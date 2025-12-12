@@ -1,4 +1,7 @@
-# Atividades
+> [!info] ✅ Atividades do 1º Bimestre
+> Lista de atividades pendentes organizadas por matéria. Marque como concluída quando finalizar.
+
+---
 
 ## Matérias Normais
 
@@ -9,7 +12,6 @@
 ### Matemática
 
 - [x] Resolver questões
-
 - [ ] Revisar conteúdo em [[Matemática]]
 
 ### Química
@@ -43,7 +45,6 @@
 ### Programação
 
 - [ ] Exercícios práticos
-
 - [ ] Avançar projetos em [[🎯 Projetos]]
 
 ### Hardware
@@ -68,3 +69,7 @@
 
 - [ ] Atualizar [[📊 Painel do 1º Bimestre]]
 
+---
+
+> [!tip] 💡 Dica
+> Revise esta lista regularmente e atualize o status das atividades conforme progride.
