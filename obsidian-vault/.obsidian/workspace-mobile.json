@@ -11,12 +11,14 @@
             "id": "7351cba6663d08e1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "IFF/Matérias/História/Arquivos úteis(PDFs, imagens etc...)/A1. Independências nas Américas -Roteiro de Estudo e Atividade- (2025).pdf"
+                "file": "📁 Templates/📝 Template Bimestre.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "A1. Independências nas Américas -Roteiro de Estudo e Atividade- (2025)"
+              "icon": "lucide-file",
+              "title": "📝 Template Bimestre"
             }
           }
         ]
@@ -110,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "IFF/Matérias/História/Caderno.md",
+            "file": "📁 Templates/📝 Template Bimestre.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -164,15 +166,29 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "4cd6ec9ff0514c64",
+  "active": "7351cba6663d08e1",
   "lastOpenFiles": [
-    "IFF/Matérias/História/Arquivos úteis(PDFs, imagens etc...)/Trabalho de história.pdf",
-    "IFF/Matérias/História/Arquivos úteis(PDFs, imagens etc...)/A1. Independências nas Américas -Roteiro de Estudo e Atividade- (2025).pdf",
-    "IFF/Matérias/História/Arquivos úteis(PDFs, imagens etc...)/História 2 -  11 - Independência nas Américas.pdf",
     "IFF/Matérias/História/Caderno.md",
+    "IFF/Matérias/História/Arquivos úteis(PDFs, imagens etc...)/A1. Independências nas Américas -Roteiro de Estudo e Atividade- (2025).pdf",
     "IFF/Matérias/História/Arquivos úteis(PDFs, imagens etc...)",
-    "História 2 -  11 - Independência nas Américas.pdf",
     "IFF/Matérias/História",
+    "IFF/Matérias",
+    "IFF",
+    "📁 Templates/📝 Template Matéria.md",
+    "📊 Painel Geral.md",
+    "📚 Estudos/1º Bimestre/📊 Painel do 1º Bimestre.md",
+    "🎵 Música/Minhas Músicas/🎵 Minhas Músicas.md",
+    "🎵 Música/Minhas Músicas/Música Exemplo 1.md",
+    "📁 Templates/📝 Template Bimestre.md",
+    "📚 Estudos/2º Bimestre/Atividades.md",
+    "📚 Estudos/2º Bimestre/📊 Painel do 2º Bimestre.md",
+    "📚 Estudos/1º Bimestre/Atividades.md",
+    "📚 Estudos/1º Bimestre/Trabalhos.md",
+    "🔧 Utilidades/🔧 Atalhos do Obsidian.md",
+    "🎯 Projetos/📊 Painel de Projetos.md",
+    "IFF/Matérias/História/Arquivos úteis(PDFs, imagens etc...)/Trabalho de história.pdf",
+    "IFF/Matérias/História/Arquivos úteis(PDFs, imagens etc...)/História 2 -  11 - Independência nas Américas.pdf",
+    "História 2 -  11 - Independência nas Américas.pdf",
     "IFF/Matérias/Cadu é gay.md",
     "Ixiii.md"
   ]
