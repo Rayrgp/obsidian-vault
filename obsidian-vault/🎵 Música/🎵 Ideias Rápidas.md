@@ -1,4 +1,4 @@
-# Ideias Rápidas
+# 🎵 Ideias Rápidas
 
 ## Conteúdo
 

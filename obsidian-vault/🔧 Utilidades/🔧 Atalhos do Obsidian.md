@@ -1,4 +1,4 @@
-# Atalhos do Obsidian
+# 🔧 Atalhos do Obsidian
 
 ## Conteúdo
 

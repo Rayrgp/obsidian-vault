@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-vault/IFF/Matérias/História/Caderno.md",
-                "mode": "source",
+                "file": "obsidian-vault/📚 Estudos/1º Bimestre/Trabalhos.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Caderno"
+              "title": "Trabalhos"
             }
           }
         ]
@@ -186,6 +186,9 @@
   },
   "active": "21c59ffb57d2bd77",
   "lastOpenFiles": [
+    "obsidian-vault/📚 Estudos/1º Bimestre/Matérias Normais/Matemática.md",
+    "obsidian-vault/📚 Estudos/1º Bimestre/Atividades.md",
+    "obsidian-vault/IFF/Matérias/História/Caderno.md",
     "obsidian-vault/Lista de Arquivos Criados.txt",
     "obsidian-vault/Utilidades/Padrões do Vault.md",
     "obsidian-vault/Utilidades/Lista de Links Úteis.md",
@@ -216,11 +219,8 @@
     "obsidian-vault/Programação/Painel de Programação.md",
     "obsidian-vault/Programação",
     "obsidian-vault/Projetos/Outros Projetos.md",
-    "obsidian-vault/Projetos/Iniciação Científica/Código Relacionado.md",
-    "obsidian-vault/Projetos/Iniciação Científica/Notebook.md",
     "obsidian-vault/Projetos/Iniciação Científica",
     "obsidian-vault/Projetos/Quadrinhos Bioko",
-    "obsidian-vault/Projetos",
-    "obsidian-vault/Estudos/4º Bimestre/Matérias Técnicas"
+    "obsidian-vault/Projetos"
   ]
 }

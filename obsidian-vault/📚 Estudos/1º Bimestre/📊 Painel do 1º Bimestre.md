@@ -1,4 +1,4 @@
-# Painel do Bimestre
+# 📊 Painel do 1º Bimestre
 
 ## Acessos Rápidos
 

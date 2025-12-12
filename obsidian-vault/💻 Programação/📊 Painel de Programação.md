@@ -1,4 +1,18 @@
-# Painel de Programação
+# 📊 Painel de Programação
+
+## Acessos Rápidos
+
+- [[Python]]
+
+- [[JS]]
+
+- [[C++]]
+
+- [[Snippets]]
+
+- [[Guias]]
+
+---
 
 ## Linguagens
 
@@ -15,6 +29,12 @@
 - [[Snippets]]
 
 - [[Guias]]
+
+---
+
+## Projetos Relacionados
+
+Ver projetos em [[🎯 Projetos]]
 
 ---
 

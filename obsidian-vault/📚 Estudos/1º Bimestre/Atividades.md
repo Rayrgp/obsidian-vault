@@ -8,7 +8,7 @@
 
 ### Matemática
 
-- [ ] Resolver questões
+- [x] Resolver questões
 
 - [ ] Revisar conteúdo em [[Matemática]]
 
@@ -66,5 +66,5 @@
 
 ## Gerais
 
-- [ ] Atualizar [[📊 Painel do Bimestre]]
+- [ ] Atualizar [[📊 Painel do 1º Bimestre]]
 

@@ -66,5 +66,5 @@
 
 ## Gerais
 
-- [ ] Atualizar [[📊 Painel do Bimestre]]
+- [ ] Atualizar [[📊 Painel do 2º Bimestre]]
 

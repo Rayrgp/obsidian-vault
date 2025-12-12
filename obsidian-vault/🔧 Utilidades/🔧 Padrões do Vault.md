@@ -1,4 +1,4 @@
-# Padrões do Vault
+# 🔧 Padrões do Vault
 
 ## Estrutura Modular
 

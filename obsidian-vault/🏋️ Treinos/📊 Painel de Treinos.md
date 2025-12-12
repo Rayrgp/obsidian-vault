@@ -1,4 +1,14 @@
-# Painel de Treinos
+# 📊 Painel de Treinos
+
+## Acessos Rápidos
+
+- [[Rotina Segunda Quarta Sexta]]
+
+- [[Evolução Física]]
+
+- [[Exercícios]]
+
+---
 
 ## Rotinas
 

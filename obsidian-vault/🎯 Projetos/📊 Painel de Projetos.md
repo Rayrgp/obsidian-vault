@@ -1,4 +1,14 @@
-# Painel de Projetos
+# 📊 Painel de Projetos
+
+## Acessos Rápidos
+
+- [[Quadrinhos Bioko]]
+
+- [[Iniciação Científica]]
+
+- [[Outros Projetos]]
+
+---
 
 ## Projetos Ativos
 
@@ -8,9 +18,15 @@
 
 ---
 
-## Outros Projetos
+## Projetos Pausados
 
-Ver [[Outros Projetos]]
+- 
+
+---
+
+## Projetos Finalizados
+
+- 
 
 ---
 

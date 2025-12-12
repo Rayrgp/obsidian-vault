@@ -1,4 +1,4 @@
-# Letras Soltas
+# 🎵 Letras Soltas
 
 ## Conteúdo
 
