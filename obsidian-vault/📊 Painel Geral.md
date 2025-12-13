@@ -39,8 +39,6 @@
 > Organize suas músicas, letras e ideias musicais.
 
 - [[🎵 Minhas Músicas]]
-- [[🎵 Ideias Rápidas]]
-- [[🎵 Letras Soltas]]
 
 ---
 
