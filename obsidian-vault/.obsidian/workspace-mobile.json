@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏋️ Treinos/Rotina Segunda Quarta Sexta.md",
-                "mode": "preview",
+                "file": "🎯 Projetos/📊 Painel de Projetos.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rotina Segunda Quarta Sexta"
+              "title": "📊 Painel de Projetos"
             }
           }
         ]
@@ -168,6 +168,7 @@
   },
   "active": "7351cba6663d08e1",
   "lastOpenFiles": [
+    "🏋️ Treinos/Rotina Segunda Quarta Sexta.md",
     "💻 Programação/Snippets.md",
     "💻 Programação/📊 Painel de Programação.md",
     "💻 Programação/Python.md",

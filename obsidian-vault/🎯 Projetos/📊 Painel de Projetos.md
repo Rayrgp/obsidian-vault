@@ -5,8 +5,6 @@
 
 ## Acessos Rápidos
 
-- [[Quadrinhos Bioko]]
-- [[Iniciação Científica]]
 - [[Outros Projetos]]
 
 ---
@@ -16,8 +14,6 @@
 > [!tip] ⚡ Em Desenvolvimento
 > Projetos que estão sendo trabalhados ativamente.
 
-- [[Quadrinhos Bioko]]
-- [[Iniciação Científica]]
 
 ---
 
@@ -42,7 +38,7 @@
 ## Status Geral
 
 > [!todo] 📊 Resumo
-> **Projetos em Desenvolvimento:** 2  
+> **Projetos em Desenvolvimento:** 0
 > **Projetos Pausados:** 0  
 > **Projetos Finalizados:** 0  
 > **Próximos Passos:** Revisar progresso de cada projeto
